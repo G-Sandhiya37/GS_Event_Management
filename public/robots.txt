@@ -12,3 +12,8 @@ Allow: /
 
 User-agent: *
 Allow: /
+
+Disallow: /src/
+Disallow: /.vite/
+
+Sitemap: https://www.gseventmanagement.in/sitemap.xml

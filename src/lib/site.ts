@@ -6,7 +6,7 @@ export const SITE = {
   instagram: "https://instagram.com/gs_event_management_21",
   instagramHandle: "@gs_event_management_21",
   phone: "+91 63824 87900",
-  email: "gseventmanagement@gmail.com",
+  email: "gseventmanagemant@gmail.com",
   address: "No: 02, Periya Kajiyar Street, Chidambaram - 608001, Cuddalore District, Tamil Nadu, India",
 };
 

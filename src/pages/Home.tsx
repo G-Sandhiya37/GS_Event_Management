@@ -49,7 +49,7 @@ const Home = () => {
                   Book Now <ArrowRight />
                 </a>
               </Button>
-              <Button asChild variant="outlineGold" size="xl">
+              <Button asChild variant="gold" size="xl">
                 <Link to="/services">Explore Services</Link>
               </Button>
             </div>

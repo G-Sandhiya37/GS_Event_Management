@@ -109,7 +109,7 @@ const ContactPage = () => {
                 </div>
                 <div className="space-y-2">
                   <Label htmlFor="name">Your Name *</Label>
-                  <Input id="name" required value={form.name} onChange={(e) => setForm({ ...form, name: e.target.value })} placeholder="Jane Doe" />
+                  <Input id="name" required value={form.name} onChange={(e) => setForm({ ...form, name: e.target.value })} placeholder="Sathish" />
                 </div>
                 <div className="space-y-2">
                   <Label>Event Type *</Label>
@@ -123,7 +123,7 @@ const ContactPage = () => {
                 <div className="grid sm:grid-cols-2 gap-4">
                   <div className="space-y-2">
                     <Label htmlFor="budget">Budget</Label>
-                    <Input id="budget" value={form.budget} onChange={(e) => setForm({ ...form, budget: e.target.value })} placeholder="₹2,00,000+" />
+                    <Input id="budget" value={form.budget} onChange={(e) => setForm({ ...form, budget: e.target.value })} placeholder="Type your budget here" />
                   </div>
                   <div className="space-y-2">
                     <Label htmlFor="date">Event Date</Label>

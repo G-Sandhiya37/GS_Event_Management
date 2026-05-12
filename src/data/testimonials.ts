@@ -19,7 +19,7 @@ export const testimonials = [
       "We booked GS Event Management for my daughter's birthday celebration, and the entire setup looked absolutely stunning. The decorations, games, music, and arrangements were beyond our expectations. The team was friendly, professional, and handled everything perfectly.",
   },
   {
-    name: "Harini R",
+    name: "Harish R",
     role: "College Coordinator",
     photo: c2,
     quote:
